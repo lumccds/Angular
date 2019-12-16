@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', sans-serif;
+}
+h1{
+    background-color: #c4bffb;
+    color: black;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    height: 50px;
+    border-radius: 60px;
+}
